@@ -526,11 +526,12 @@ b, strong {
 
   .custom-btn-group {
     text-align: center;
+    margin: 20px;
   }
 
   .custom-btn {
     display: block;
-    margin: 10px 0;
+    margin: 20px 0;
   }
 
   .owl-theme .owl-nav {
